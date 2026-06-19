@@ -1,4 +1,4 @@
-baseURL = 'https://docs.vithi.in/'
+baseURL = 'https://prathxmop.github.io/vithi-docs/'
 languageCode = 'en-us'
 title = 'Vithi Seller Academy'
 theme = 'hugo-book'
