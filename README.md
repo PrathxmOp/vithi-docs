@@ -2,24 +2,73 @@
 
 Welcome to the **Vithi Seller Academy**! 🚀 
 
-This is your interactive, step-by-step guidebook to launched, managing, and skyrocketing your sales on **Vithi.in**. We've designed this guide to be simple, visual, and quick to read—so you can get back to what you do best: running your store!
+This is your interactive, step-by-step guidebook to launching, managing, and skyrocketing your sales on **Vithi.in**. We've designed this guide to be simple, visual, and quick to read—so you can get back to what you do best: running your store!
 
 ---
 
 ## 🌐 Choose Your Language / अपनी भाषा चुनें
 
-Click on one of the options below to read the complete guide:
+Click on one of the options below to read the complete step-by-step seller manuals:
 
 | 🇬🇧 English Version | 🇮🇳 हिंदी संस्करण |
 | :--- | :--- |
 | [**Read Guide in English**](./seller_guide_en.md) | [**हिंदी में गाइड पढ़ें**](./seller_guide_hi.md) |
-| Learn setup, product listing, variant rules, and payout cycles. | स्टोर सेटअप, प्रोडक्ट लिस्टिंग, वेरिएंट नियम और कमाई के बारे में सीखें। |
+| Learn registration, product variants, order runs, and payout rules. | स्टोर रजिस्ट्रेशन, प्रोडक्ट वेरिएंट, ऑर्डर और भुगतान नियमों के बारे में सीखें। |
+
+---
+
+## 🧭 Vithi Category Guide (Where does your product belong?)
+
+Choosing the correct category makes your products easy to search and buy. Find your category card below:
+
+### 🍛 Food & Meals
+*Cooked, hot, or freshly prepared meals and bakery treats.*
+*   **Color Theme:** Red 🔴 (Zomato Style)
+*   **Target Shops:** Restaurants, Cafes, Bakeries, Fast Food Stalls, Sweet Shops.
+*   **What goes here:** Thalis, Burgers, Pizzas, Sandwiches, Momos, Shakes, Tea, Coffee, Cakes, Pastries, Sweets.
+*   ⚠️ **Do NOT put:** Raw spices, raw rice, or packaged raw milk packets (these go in Grocery).
+
+---
+
+### 🥛 Grocery & Essentials
+*Daily household needs, pantry staples, and raw kitchen ingredients.*
+*   **Color Theme:** Yellow 🟡 (Blinkit Style)
+*   **Target Shops:** Kirana Stores, Supermarkets, Dairy Booths, Fruit & Vegetable Vendors.
+*   **What goes here:** Fresh Milk packets, Bread, Ghee, Spices (Masalas), Flour (Atta), Rice, Dals, Packaged Chips, Soap, Toiletries.
+*   ⚠️ **Do NOT put:** Freshly prepared hot restaurant food (goes in Food).
+
+---
+
+### 💄 Fashion & Beauty
+*Wearables, personal grooming products, and lifestyle accessories.*
+*   **Color Theme:** Pink 🌸 (Nykaa Style)
+*   **Target Shops:** Clothing Boutiques, Cosmetics Stores, Jewelry Shops, Watch Dealers.
+*   **What goes here:** Sarees, Jeans, T-shirts, Lipsticks, Eyeliners, Perfumes, Moisturizers, Earrings, Watches.
+*   ⚠️ **Do NOT put:** Electronic smartwatches (goes in Electronics).
+
+---
+
+### ⚡ Electronics & Gadgets
+*Electronic hardware, smart devices, and daily electronic accessories.*
+*   **Color Theme:** Blue 🔵 (Flipkart Style)
+*   **Target Shops:** Mobile Shops, Computer Centers, Electronic Retailers.
+*   **What goes here:** Smartphones, Bluetooth Earbuds, Neckbands, Smartwatches, Power banks, Chargers, USB Cables, Phone Covers.
+*   ⚠️ **Do NOT put:** Clothing, jewelry, or general fashion accessories (goes in Fashion).
+
+---
+
+### 💊 Pharma & Wellness
+*Daily wellness, health supplements, and baby care essentials.*
+*   **Color Theme:** Green 🟢 (Pharma Style)
+*   **Target Shops:** Pharmacies, Chemists, Health Supplement Stores, Baby Care shops.
+*   **What goes here:** OTC Medicines, Pain Balms, Band-aids, Protein Powders, Multivitamins, Baby Diapers, Wipes.
+*   ⚠️ **Do NOT put:** Carbonated soft drinks or standard restaurant beverages (goes in Food).
 
 ---
 
 ## 📖 Book Chapters Overview
 
-Here is a quick preview of what you will learn in this guide:
+Here is a quick preview of what you will find inside the main guides:
 
 ```
 Vithi Seller Academy
