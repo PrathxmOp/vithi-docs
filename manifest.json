@@ -1,14 +1,14 @@
 {
   "name": "Vithi Seller Academy",
   "short_name": "Vithi Seller Academy",
-  "start_url": "/",
-  "scope": "/",
+  "start_url": "/vithi-docs/",
+  "scope": "/vithi-docs/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "/favicon.svg",
+      "src": "/vithi-docs/favicon.svg",
       "sizes": "512x512"
     }
   ]
