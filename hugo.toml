@@ -9,3 +9,5 @@ theme = 'hugo-book'
   BookComments = false
   BookPortraitBadges = false
   BookTranslate = true
+  BookRepo = 'https://github.com/PrathxmOp/vithi-docs'
+  BookFooter = 'Designed by Pratham'
