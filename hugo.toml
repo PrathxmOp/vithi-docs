@@ -1,0 +1,11 @@
+baseURL = 'https://docs.vithi.in/'
+languageCode = 'en-us'
+title = 'Vithi Seller Academy'
+theme = 'hugo-book'
+
+[params]
+  BookTheme = 'auto'
+  BookSearch = true
+  BookComments = false
+  BookPortraitBadges = false
+  BookTranslate = true
